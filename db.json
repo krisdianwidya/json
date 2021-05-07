@@ -1,0 +1,67 @@
+{
+  "placeAttractions": [
+    {
+      "id": 1,
+      "latitude": 1.28692,
+      "longtitude": 103.85457,
+      "placeName": "Merlion",
+      "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor."
+    },
+    {
+      "id": 2,
+      "latitude": 1.287466,
+      "longtitude": 103.851424,
+      "placeName": "Asian Civilisations Museum",
+      "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor."
+    },
+    {
+      "id": 3,
+      "latitude": 1.290555,
+      "longtitude": 103.846188,
+      "placeName": "Clarke Quay",
+      "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor."
+    },
+    {
+      "id": 4,
+      "latitude": 1.295526,
+      "longtitude": 103.845331,
+      "placeName": "Fort Canning Park",
+      "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor."
+    },
+    {
+      "id": 5,
+      "latitude": 1.302279,
+      "longtitude": 103.837399,
+      "placeName": "Orchard Road",
+      "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor."
+    },
+    {
+      "id": 6,
+      "latitude": 1.289332,
+      "longtitude": 103.863152,
+      "placeName": "Singapore Flyer",
+      "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor."
+    },
+    {
+      "id": 7,
+      "latitude": 1.283099,
+      "longtitude": 103.860295,
+      "placeName": "Marina Bay Sands",
+      "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor."
+    },
+    {
+      "id": 8,
+      "latitude": 1.28179,
+      "longtitude": 103.863954,
+      "placeName": "Gardens By The Bay",
+      "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor."
+    },
+    {
+      "id": 9,
+      "latitude": 1.284193,
+      "longtitude": 103.843362,
+      "placeName": "Chinatown",
+      "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor."
+    }
+  ]
+}
