@@ -6,7 +6,8 @@
       "longtitude": 103.85457,
       "placeName": "Merlion",
       "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor.",
-      "address": "Singapore"
+      "address": "Singapore",
+      "photo": "https://images.unsplash.com/photo-1615916884911-2efa7ce4eaa1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "longtitude": 103.851424,
       "placeName": "Asian Civilisations Museum",
       "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor.",
-      "address": "1 Empress Pl, Singapore 179555"
+      "address": "1 Empress Pl, Singapore 179555",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Asian_civilisations_museums_singapore.jpg/375px-Asian_civilisations_museums_singapore.jpg"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "longtitude": 103.846188,
       "placeName": "Clarke Quay",
       "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor.",
-      "address": "3 River Valley Rd, Singapore 179024"
+      "address": "3 River Valley Rd, Singapore 179024",
+      "photo": "https://images.unsplash.com/photo-1605459798370-f8251c1f8609?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80"
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "longtitude": 103.845331,
       "placeName": "Fort Canning Park",
       "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor.",
-      "address": "River Valley Rd, Singapore 179037"
+      "address": "River Valley Rd, Singapore 179037",
+      "photo": "https://a.cdn-hotels.com/gdcs/production116/d1540/e3875d09-7c95-492d-be39-debcf3d65dd6.jpg"
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "longtitude": 103.837399,
       "placeName": "Orchard Road",
       "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor.",
-      "address": "Orchard Road, Central Region"
+      "address": "Orchard Road, Central Region",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Orchard_Road_street_sign_-_Singapore_%28gabbe%29.jpg"
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "longtitude": 103.863152,
       "placeName": "Singapore Flyer",
       "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor.",
-      "address": "30 Raffles Ave, Singapore 039803"
+      "address": "30 Raffles Ave, Singapore 039803",
+      "Photo": "https://en.wikipedia.org/wiki/Singapore_Flyer#/media/File:Singapore_Singapore-Flyer-Ferris-wheel-01.jpg"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "longtitude": 103.860295,
       "placeName": "Marina Bay Sands",
       "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor.",
-      "address": "10 Bayfront Ave, Singapore 018956"
+      "address": "10 Bayfront Ave, Singapore 018956",
+      "photo": "https://en.wikipedia.org/wiki/Marina_Bay_Sands#/media/File:Marina_Bay_Sands_in_the_evening_-_20101120.jpg"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "longtitude": 103.863954,
       "placeName": "Gardens By The Bay",
       "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor.",
-      "address": "18 Marina Gardens Dr, Singapore 018953"
+      "address": "18 Marina Gardens Dr, Singapore 018953",
+      "photo": "https://simple.wikipedia.org/wiki/Gardens_by_the_Bay#/media/File:Marina_Bay_Sands_from_Gardens_By_The_Bay.jpg"
     },
     {
       "id": 9,
@@ -70,7 +78,8 @@
       "longtitude": 103.843362,
       "placeName": "Chinatown",
       "description": "Anim eu ea magna quis minim enim. Pariatur ad veniam id laborum deserunt qui id aliqua. Et velit consequat non aute anim sit non laboris. Voluptate aute quis tempor qui dolor.",
-      "address": "Chinatown"
+      "address": "Chinatown",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Chinatown_at_night%2C_Singapore.jpg"
     }
   ]
 }
